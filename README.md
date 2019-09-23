@@ -8,4 +8,7 @@ Sample website with plenty of files for demos
 
 ## Bella raga giorno di paga
 
-ggi come sermpre
+Oggi come sermpre
+
+## Copyright
+Altro testo a caso con copyright
